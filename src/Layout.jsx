@@ -13,7 +13,7 @@ export function Layout() {
          </nav>
 
          <section>
-            <Outlet />
+<Outlet />
          </section>
 
       </main>
